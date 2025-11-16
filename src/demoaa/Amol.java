@@ -7,6 +7,10 @@ public class Amol {
 		
 		System.out.println("java");
 
+		System.out.println("Hello");
+
+		
+
 
 	}
 
